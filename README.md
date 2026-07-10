@@ -1,4 +1,4 @@
-# FedTRA — Reproducible Code
+# FedTRA  Reproducible Code
 
 Repo: https://github.com/abeersss/FedTRA
 
